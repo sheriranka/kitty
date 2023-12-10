@@ -1,0 +1,1 @@
+itemID = 17 //assign this to array later
